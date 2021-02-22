@@ -1,0 +1,10 @@
+
+A cookie is a small file that a server stores only on the client or user computer.
+The purpose of cookies is remembering information about the user, and the user's site preferences.
+A cookie can only be visible to the user that created it and the data generated are only stored on the client-side machine,
+and they can be disabled by the user in most web browsers.
+They expire depending on the lifetime a user sets for it.
+
+Meanwhile, a session can be referred to as a type of variable that can store large amount of data both in a user computer and in a server.
+It stores information about a user and a user’s site preferences on the server and is available on multiple webpages.
+Sessions are dependent on cookies and are automatically deleted when a user closes the browser. 
